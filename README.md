@@ -100,4 +100,4 @@ It helps organizations make data-driven HR decisions to improve employee satisfa
 ---
 
 ## 📌 Project Title
-**HR Analytics Dashboard: Employee Attrition & Retention Insights**
+**HR Analytics Dashboard — Employee Attrition, Hiring & Retention Analysis**
